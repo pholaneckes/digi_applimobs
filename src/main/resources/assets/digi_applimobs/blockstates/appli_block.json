@@ -1,0 +1,5 @@
+{
+  "variants": {
+    "": { "model": "digi_applimobs:block/appli_block" }
+  }
+}

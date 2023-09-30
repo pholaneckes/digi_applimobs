@@ -1,0 +1,103 @@
+{
+  "type": "digi_applimobs:arfield",
+  "generator": {
+    "type": "minecraft:noise",
+    "seed": 2997377565,
+    "settings": {
+      "name": "digi_applimobs:arfield",
+      "bedrock_roof_position": -10,
+      "bedrock_floor_position": 0,
+      "sea_level": 103,
+      "disable_mob_generation": false,
+      "default_block": {
+        "Name": "digi_applimobs:appli_floor"
+      },
+      "default_fluid": {
+        "Name": "digi_applimobs:appli_net_water",
+        "Properties": {
+          "level": "0"
+        }
+      },
+      "noise": {
+        "height": 256,
+        "density_factor": 1,
+        "density_offset": -0.46875,
+        "size_horizontal": 1,
+        "size_vertical": 2,
+        "simplex_surface_noise": true,
+        "random_density_offset": true,
+        "sampling": {
+          "xz_scale": 1,
+          "y_scale": 1,
+          "xz_factor": 80,
+          "y_factor": 160
+        },
+        "bottom_slide": {
+          "target": -30,
+          "size": 0,
+          "offset": 0
+        },
+        "top_slide": {
+          "target": -10,
+          "size": 3,
+          "offset": 0
+        }
+      },
+      "structures": {
+        "structures": {}
+      }
+    },
+    "biome_source": {
+      "type": "minecraft:multi_noise",
+      "seed": 906405524,
+      "altitude_noise": {
+        "firstOctave": 900,
+        "amplitudes": [
+          0.5
+        ]
+      },
+      "temperature_noise": {
+        "firstOctave": -20,
+        "amplitudes": [
+          0.1
+        ]
+      },
+      "humidity_noise": {
+        "firstOctave": -70,
+        "amplitudes": [
+          0.1
+        ]
+      },
+      "weirdness_noise": {
+        "firstOctave": -6,
+        "amplitudes": [
+          9,
+          -7,
+          7
+        ]
+      },
+      "biomes": [
+        {
+          "biome": "digi_applimobs:appli_mainland",
+          "parameters": {
+            "altitude": 0.65,
+            "temperature": 0.7,
+            "humidity": 0.4,
+            "weirdness": 0,
+            "offset": -1.15
+          }
+        },
+        {
+          "biome": "digi_applimobs:net_umi",
+          "parameters": {
+            "altitude": 0,
+            "temperature": 0.3,
+            "humidity": 0.7,
+            "weirdness": 0.35,
+            "offset": 0.9
+          }
+        }
+      ]
+    }
+  }
+}

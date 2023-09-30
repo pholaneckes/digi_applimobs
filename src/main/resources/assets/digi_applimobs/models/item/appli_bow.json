@@ -1,0 +1,33 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "digi_applimobs:item/appli_bow"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [0, 180, 22.5],
+			"translation": [-3.75, 2.5, 0]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [0, 0, -22.5],
+			"translation": [-3.75, 2.5, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [0, 137.5, 0],
+			"translation": [0.25, -0.25, 0]
+		},
+		"ground": {
+			"scale": [1, 1, 0.87]
+		},
+		"head": {
+			"rotation": [0, -90, 0],
+			"translation": [0, 13.75, -2.5],
+			"scale": [1, 1, 2.25]
+		},
+		"fixed": {
+			"rotation": [0, -180, 0],
+			"scale": [1, 1, 4]
+		}
+	}
+}

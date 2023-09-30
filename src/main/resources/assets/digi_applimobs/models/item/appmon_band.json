@@ -1,0 +1,43 @@
+{
+	"credit": "Made with Blockbench",
+	"parent": "item/generated",
+	"textures": {
+		"layer0": "digi_applimobs:item/appmon_band"
+	},
+	"display": {
+		"thirdperson_righthand": {
+			"rotation": [40, 0, 0],
+			"translation": [0.25, 3.5, 4.25]
+		},
+		"thirdperson_lefthand": {
+			"rotation": [40, 0, 0],
+			"translation": [-0.75, 3.5, 4.25]
+		},
+		"firstperson_righthand": {
+			"rotation": [-19.81, -39.12, -25.05],
+			"translation": [0, 3.25, 0]
+		},
+		"firstperson_lefthand": {
+			"rotation": [-13.28, -52.73, -14.27],
+			"translation": [3, 3.75, 0]
+		},
+		"ground": {
+			"rotation": [-21, 0, 16],
+			"scale": [1.5, 1.5, 1.5]
+		},
+		"gui": {
+			"rotation": [0, 0, -21.75],
+			"translation": [2, 2, 0],
+			"scale": [2, 2, 1.33]
+		},
+		"head": {
+			"translation": [1.5, 15.5, -4.25],
+			"scale": [4, 4, 4]
+		},
+		"fixed": {
+			"rotation": [0, 0, 27],
+			"translation": [-0.75, 2.75, 0.25],
+			"scale": [2.5, 2.5, 2.5]
+		}
+	}
+}
