@@ -1,0 +1,9 @@
+{
+  "type": "minecraft:blasting",
+  "ingredient": {
+    "item": "digi_applimobs:appli_ore"
+  },
+  "result": "digi_applimobs:appli_ingot",
+  "experience": 0.71,
+  "cookingtime": 70
+}

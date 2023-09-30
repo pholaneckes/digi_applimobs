@@ -1,0 +1,44 @@
+{
+  "surface_builder": "digi_applimobs:net_umi_csb",
+  "depth": -1.43,
+  "scale": 0.1,
+  "temperature": 0.5,
+  "downfall": 0.5,
+  "precipitation": "rain",
+  "temperature_modifier": "none",
+  "category": "ocean",
+  "player_spawn_friendly": false,
+  "effects": {
+    "sky_color": 13622775,
+    "fog_color": 15069183,
+    "water_color": 4159204,
+    "water_fog_color": 658017,
+    "mood_sound": {
+      "sound": "minecraft:ambient.cave",
+      "tick_delay": 6000,
+      "block_search_extent": 8,
+      "offset": 2
+    }
+  },
+  "starts": [],
+  "spawners": {},
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:ore_coal",
+      "minecraft:ore_iron",
+      "minecraft:ore_gold",
+      "minecraft:ore_lapis"
+    ],
+    [],
+    [],
+    []
+  ]
+}

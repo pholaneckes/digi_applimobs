@@ -1,0 +1,46 @@
+{
+  "surface_builder": "digi_applimobs:appli_mainland_csb",
+  "depth": 4.575,
+  "scale": 0.0617,
+  "temperature": 0.7,
+  "downfall": 0.3,
+  "precipitation": "rain",
+  "temperature_modifier": "none",
+  "category": "plains",
+  "player_spawn_friendly": true,
+  "effects": {
+    "sky_color": 13622775,
+    "fog_color": 15069183,
+    "water_color": 4159204,
+    "water_fog_color": 658017
+  },
+  "starts": [],
+  "spawners": {
+    "creature": [
+      {
+        "type": "digi_applimobs:gatchmob",
+        "weight": 2,
+        "minCount": 0,
+        "maxCount": 1
+      }
+    ]
+  },
+  "spawn_costs": {},
+  "carvers": {},
+  "features": [
+    [],
+    [],
+    [],
+    [],
+    [],
+    [],
+    [
+      "minecraft:ore_gold",
+      "minecraft:ore_iron",
+      "minecraft:ore_coal"
+    ],
+    [],
+    [],
+    []
+  ]
+}

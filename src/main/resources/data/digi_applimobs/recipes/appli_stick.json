@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "##",
+    "##",
+    "##"
+  ],
+  "key": {
+    "#": {
+      "item": "digi_applimobs:appli_block"
+    }
+  },
+  "result": {
+    "item": "digi_applimobs:appli_stick",
+    "count": 1
+  }
+}

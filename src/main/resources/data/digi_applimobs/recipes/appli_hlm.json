@@ -1,0 +1,16 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "digi_applimobs:appli_ingot"
+    }
+  },
+  "result": {
+    "item": "digi_applimobs:appli_helmet",
+    "count": 1
+  }
+}

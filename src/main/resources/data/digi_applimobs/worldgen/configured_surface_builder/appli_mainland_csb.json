@@ -1,0 +1,17 @@
+{
+  "type": "digi_applimobs:appli_mainland_csb",
+  "config": {
+    "top_material": {
+      "Name": "digi_applimobs:appli_floor",
+      "Properties": {
+        "snowy": "true"
+      }
+    },
+    "under_material": {
+      "Name": "digi_applimobs:appli_floor"
+    },
+    "underwater_material": {
+      "Name": "digi_applimobs:appli_floor"
+    }
+  }
+}

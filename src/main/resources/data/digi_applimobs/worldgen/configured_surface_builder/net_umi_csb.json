@@ -1,0 +1,17 @@
+{
+  "type": "digi_applimobs:net_umi_csbs",
+  "config": {
+    "top_material": {
+      "Name": "minecraft:air",
+      "Properties": {
+        "snowy": "true"
+      }
+    },
+    "under_material": {
+      "Name": "minecraft:air"
+    },
+    "underwater_material": {
+      "Name": "minecraft:air"
+    }
+  }
+}

@@ -1,0 +1,20 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "#",
+    "$",
+    "$"
+  ],
+  "key": {
+    "#": {
+      "item": "digi_applimobs:appli_ingot"
+    },
+    "$": {
+      "item": "digi_applimobs:appli_stick"
+    }
+  },
+  "result": {
+    "item": "digi_applimobs:appli_shovel",
+    "count": 1
+  }
+}

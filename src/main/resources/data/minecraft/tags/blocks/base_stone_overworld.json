@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    {
+      "id": "digi_applimobs:appli_floor",
+      "required": false
+    }
+  ]
+}
